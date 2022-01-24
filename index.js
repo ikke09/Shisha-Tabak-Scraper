@@ -2,6 +2,8 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
+const nameWithAmountAndUnitRegExp = new RegExp('(.+) (\\d+)(g|ml|kg)', 'gi');
+
 const loadHTML = async (pageNumber = 1) => {
     try {
         const response = await axios({
@@ -71,13 +73,15 @@ const loadProductDetails = async(productLink) => {
             responseEncoding: 'utf8'
         });
         const $ = cheerio.load(response.data);
-        const regex = new RegExp('([\\w ]+) (Tabak|Tobacco|Booster|Mix|Tabakersatz) (.+) (\\d+)(g|ml|kg)', 'g');
-        const title = $('h1.product--title').text().trim();
-        const matches = [...title.matchAll(regex)][0];
-        const { 1: producer, 2: type, 3: name, 4: amount, 5: unit } = matches;
+        const fullTitle = $('h1.product--title').text().trim();
+        const producer = $("span[itemprop='manufacturer']").attr('content').trim();
+        const category = $("span[itemprop='category']").attr('content')
+        const type = category.substring(category.lastIndexOf('>')+1).trim();
+        const title = fullTitle.replaceAll(new RegExp([producer, ...type.split(" ")].join("|"), "gi"), "").trim();
+        const {1: name, 2: amount, 3: unit} = [...title.matchAll(nameWithAmountAndUnitRegExp)][0];
         const res = {
             producer,
-            name, 
+            name: String(name), 
             type,
             amount: Number(amount), 
             unit,
@@ -85,10 +89,9 @@ const loadProductDetails = async(productLink) => {
         };
         return res;
     } catch (error) {
-        //console.error(error);
         return {
             url: productLink,
-            msg: 'Failed to load Details'
+            msg: error.message || 'Failed to load Details',
         };
     }
 }
