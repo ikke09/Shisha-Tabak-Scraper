@@ -1,6 +1,7 @@
 const cheerio = require('cheerio');
 const axios = require("axios");
 const Tobacco = require('./tobacco');
+const PageInfo = require('./page-info');
 
 const nameWithAmountAndUnitRegExp = new RegExp('(.+) (\\d+)(g|ml|kg)', 'gi');
 
@@ -25,12 +26,11 @@ const loadTobaccoCount = async () => {
         const amountPerPageElement = $('.per-page--field option:selected');
         const amountPerPage = Number(amountPerPageElement.val());
         const pageCount = Math.ceil(maxCount / amountPerPage);
-        const res = {
+        return new PageInfo(
             maxCount,
             amountPerPage,
             pageCount
-        }
-        return res;
+        );
     } catch (error) {
         console.error(error);
     }

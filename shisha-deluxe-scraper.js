@@ -1,6 +1,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const Tobacco = require('./tobacco');
+const PageInfo = require('./page-info');
 
 const tobaccoOverviewPageRequestOptions = {
     url: '/navi.php',
@@ -40,12 +41,11 @@ const loadTobaccoCount = async () => {
             1: perPage,
             2: maxCount
         } = [...maxCountInfoStr.matchAll(numRegEx)];
-        const res = {
-            productCount: Number(maxCount[0]),
-            amountPerPage: Number(perPage[0]),
-            pageCount: Number(pages[0])
-        }
-        return res;
+        return new PageInfo(
+            Number(maxCount[0]),
+            Number(perPage[0]),
+            Number(pages[0])
+        );
     } catch (error) {
         console.error(error);
     }
