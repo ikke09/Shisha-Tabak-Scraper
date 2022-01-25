@@ -1,6 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const { Tobacco } = require('./tobacco');
+const Tobacco = require('./tobacco');
 
 const tobaccoOverviewPageRequestOptions = {
     url: '/navi.php',

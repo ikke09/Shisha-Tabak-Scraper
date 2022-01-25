@@ -1,5 +1,6 @@
 const cheerio = require('cheerio');
 const axios = require("axios");
+const Tobacco = require('./tobacco');
 
 const nameWithAmountAndUnitRegExp = new RegExp('(.+) (\\d+)(g|ml|kg)', 'gi');
 
@@ -65,15 +66,17 @@ const loadTobacco = async(productLink) => {
         const type = category.substring(category.lastIndexOf('>')+1).trim();
         const title = fullTitle.replaceAll(new RegExp([producer, ...type.split(" ")].join("|"), "gi"), "").trim();
         const {1: name, 2: amount, 3: unit} = [...title.matchAll(nameWithAmountAndUnitRegExp)][0];
-        const res = {
+        return new Tobacco(
             producer,
-            name: String(name), 
+            name,
+            [],
             type,
-            amount: Number(amount), 
+            Number(amount), 
             unit,
-            url: productLink
-        };
-        return res;
+            0.0,
+            "EUR",
+            productLink
+        );
     } catch (error) {
         return {
             url: productLink,

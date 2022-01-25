@@ -29,4 +29,4 @@ class Tobacco {
 
 }
 
-module.exports = { Tobacco };
+module.exports.default = Tobacco;
