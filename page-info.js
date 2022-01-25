@@ -6,4 +6,4 @@ class PageInfo {
     }
 }
 
-module.exports.default = PageInfo;
+module.exports = PageInfo;
