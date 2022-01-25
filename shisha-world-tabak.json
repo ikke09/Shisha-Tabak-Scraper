@@ -1,0 +1,4446 @@
+[{
+    "producer": "Al Fakher",
+    "name": "Crystal Grapio",
+    "tastes": ["Frische", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-crystal-grapio-200g?number=SHWD20595",
+    "ean": "5908224729965"
+}, {
+    "producer": "Al Fakher",
+    "name": "Crystal Yellow",
+    "tastes": ["Frische", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-crystal-yellow-200g?number=SHWD20593",
+    "ean": "5908224729941"
+}, {
+    "producer": "Al Fakher",
+    "name": "Crystal Double Crunch",
+    "tastes": ["Doppelapfel", "Frische"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-crystal-double-crunch-200g?number=SHWD20594",
+    "ean": "5908224729927"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Green Leo #23",
+    "tastes": ["Limette", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-green-leo-23-200g?number=SHWD19397",
+    "ean": "8681655793077"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Black Box #1",
+    "tastes": ["Acai", "Guarana", "Menthol (TPD2)", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-black-box-1-200g?number=SHWD10577",
+    "ean": "8681655792155"
+}, {
+    "url": "/aqua-mentha-tabak-pynap-14-200g?number=SHWD13302",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Black & White #19",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-black--white-19-200g?number=SHWD15758",
+    "ean": "8681655792353"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Fanex #7",
+    "tastes": ["Beerenmix", "Maracuja", "Orange", "Pfirsich", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-fanex-7-200g?number=SHWD18171",
+    "ean": "8681655792773"
+}, {
+    "url": "/aqua-mentha-tabak-golden-leo-10-200g?number=SHWD20001",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Holster",
+    "name": "Peery Punch",
+    "tastes": ["Birne"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-peery-punch-200g?number=SHWD20615",
+    "ean": "4260626341666"
+}, {
+    "producer": "Holster",
+    "name": "Grp 2.0",
+    "tastes": ["Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-grp-2.0-200g?number=SHWD18463",
+    "ean": "4260626341178"
+}, {
+    "producer": "Holster",
+    "name": "Ice Kaktuz",
+    "tastes": ["Kaktusfeige"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-ice-kactuz-200g?number=SHWD12564",
+    "ean": "4260626340157"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  Spirit Bomb g",
+    "tastes": ["Blaubeere", "Karamell", "Käsekuchen"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-spirit-bomb-200g?number=SHWD17809",
+    "ean": "4250859815157"
+}, {
+    "url": "/hasso-tabak-g-addiction-200g?number=SHWD19780",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Nameless",
+    "name": "#40 Black Nana",
+    "tastes": ["Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/nameless-tabak-40-black-nana-200g-?number=SHWD11822",
+    "ean": "4260620119568"
+}, {
+    "producer": "OS Tabak",
+    "name": "Os  Red Line African Queen",
+    "tastes": ["Fruchtmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/os-tabak-red-line-african-queen-200g?number=SHWD11483",
+    "ean": "4260585670005"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Love66 #66",
+    "tastes": ["Honigmelone", "Maracuja", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-love66-66-200g?number=SHWD15898",
+    "ean": "4260587792088"
+}, {
+    "producer": "Almassiva",
+    "name": "Sommer in Beirut",
+    "tastes": ["Himbeere", "Wassermelone", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/almassiva-tabak-sommer-in-beirut-200g?number=SHWD19769",
+    "ean": "4251776100562"
+}, {
+    "url": "/holster-tabak-ice-bomb-200g?number=SHWD12561",
+    "msg": "read ECONNRESET"
+}, {
+    "url": "/almassiva-tabak-bruderherz-200g?number=SHWD15050",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "#040 Hamburg  200g",
+    "tastes": ["Blaubeere", "Brombeere", "Erdbeere", "Himbeere", "Johannisbeere"],
+    "type": "Shisha Tabak",
+    "amount": null,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-040-hamburg?number=SHWD15753",
+    "ean": "4251822800040"
+}, {
+    "url": "/holster-tabak-wild-punch-200g?number=SHWD12560",
+    "msg": "read ECONNRESET"
+}, {
+    "url": "/almassiva-tabak-loewenherz-200g?number=SHWD20403",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Almassiva",
+    "name": "Blaulicht",
+    "tastes": ["Beerenmix", "Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/almassiva-tabak-blaulicht-200g?number=SHWD16124",
+    "ean": "4251776100326"
+}, {
+    "producer": "Holster",
+    "name": "Bloody Punch",
+    "tastes": ["Blutorange", "Grapefruit"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-bloody-punch-200g?number=SHWD17430",
+    "ean": "2000100023563"
+}, {
+    "producer": "Holster",
+    "name": "Watermill Punch",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-watermill-punch-200g?number=SHWD12558",
+    "ean": "4260626340164"
+}, {
+    "producer": "Holster",
+    "name": "Miss Joosy",
+    "tastes": ["Erdbeere", "Himbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-miss-joosy-200g?number=SHWD12562",
+    "ean": "4260626340034"
+}, {
+    "url": "/banger-tabak-triple-air-sign-200g?number=SHWD20691",
+    "msg": "read ECONNRESET"
+}, {
+    "url": "/187-strassenbande-tobacco-juicy-puzzy-200g?number=ssw19548",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Black Goku 200g",
+    "tastes": ["Johannisbeere", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-black-goku-200g?number=SHWD17021",
+    "ean": "4250859813030"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Skittlez",
+    "tastes": ["Erdbeere", "Johannisbeere", "Limette", "Orange", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-skittlez-200g?number=SHWD17299",
+    "ean": "4251822800828"
+}, {
+    "producer": "Banger",
+    "name": "Baner  3 Mal im Leben g",
+    "tastes": ["Ananas", "Mango", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/banger-tabak-3-mal-im-leben-200g?number=SHWD19839",
+    "ean": "4251776196879"
+}, {
+    "producer": "Hookain",
+    "name": "Zenta Schox Saur Splash",
+    "tastes": ["Limette", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-zenta-schox-saur-splash-200g?number=SHWD16210",
+    "ean": "4260656327920"
+}, {
+    "producer": "Hookain",
+    "name": "Punani",
+    "tastes": ["Ananas", "Mango", "Passionsfrucht"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-punani-200g?number=SHWD13205",
+    "ean": "4260656329078"
+}, {
+    "producer": "Holster",
+    "name": "Quwi Punch",
+    "tastes": ["Kiwi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-quwi-punch-200g?number=SHWD12563",
+    "ean": "4260626340140"
+}, {
+    "producer": "Hookain",
+    "name": "Green Lean",
+    "tastes": ["Limette", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-green-lean-200g?number=SHWD13208",
+    "ean": "4260656329009"
+}, {
+    "producer": "7 Days",
+    "name": "7Days Tobacco Cold Peah",
+    "tastes": ["Menthol (TPD2)", "Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 14.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/7days-tobacco-cold-peah-200g?number=ssw11219",
+    "ean": "5902605450639"
+}, {
+    "producer": "OS Tabak",
+    "name": "OS  Red Line African Kin g",
+    "tastes": ["Litschi", "Mango", "Passionsfrucht", "Rose"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/os-tabak-red-line-african-king-200g?number=SHWD14950",
+    "ean": "4260585670715"
+}, {
+    "url": "/aqua-mentha-tabak-red-nebula-32-200g?number=SHWD20725",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Almassiva",
+    "name": "Handemacht & Illegal g",
+    "tastes": ["Ananas", "Kiwi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/almassiva-tabak-handgemacht--illegal-200g?number=SHWD16126",
+    "ean": "4251776100319"
+}, {
+    "producer": "True Passion",
+    "name": "Tobacco Vampire Nihts g",
+    "tastes": ["Blutorange", "Grapefruit", "Minze"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-passion-tobacco-vampire-nights-200g?number=ssw18110",
+    "ean": "4250859801730"
+}, {
+    "url": "/argileh-tabak-orng-mnt-200g?number=SHWD18245",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Babos",
+    "name": "FFM",
+    "tastes": ["Beerenmix", "Erdbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 19.75,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/babos-tabak-ffm-200g?number=ssw20495",
+    "ean": "4260327580357"
+}, {
+    "producer": "Hookain",
+    "name": "Fellatio",
+    "tastes": ["Honigmelone", "Maracuja", "Waldbeere", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-fellatio-200g?number=SHWD13204",
+    "ean": "4260656328989"
+}, {
+    "url": "/banger-tabak-regionalliga-after-game-200g?number=SHWD19838",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  White Drops g",
+    "tastes": ["Blaubeere", "Energy Drink", "Kokosnuss"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-white-drops-200g?number=SHWD19299",
+    "ean": "4250859815409"
+}, {
+    "url": "/187-strassenbande-tabak-040-i-love-hamburg-200g?number=SHWD18159",
+    "msg": "read ECONNRESET"
+}, {
+    "url": "/argileh-tabak-chapo-laymon-200g?number=SHWD18243",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "True Passion",
+    "name": "Tobacco Okolom Classic",
+    "tastes": ["Holunder", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-passion-tobacco-okolom-classic-200g?number=ssw18111",
+    "ean": "4250859804885"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  White Goku g",
+    "tastes": ["Minze (TPD2)", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-white-goku-200g?number=SHWD18107",
+    "ean": "4250859815171"
+}, {
+    "producer": "Hookain",
+    "name": "Big Black Barries 200g",
+    "tastes": ["Beerenmix"],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-big-black-barries-200g?number=SHWD13210",
+    "ean": "4260656328910"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "007 New Flash",
+    "tastes": ["Cola", "Drachenfrucht", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-007-new-flash-200g?number=SHWD15745",
+    "ean": "4251822800019"
+}, {
+    "producer": "Hookain",
+    "name": "White Caek",
+    "tastes": ["Käsekuchen", "Popcorn"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-white-caek-200g?number=SHWD13202",
+    "ean": "4260656329115"
+}, {
+    "url": "/187-strassenbande-tabak-045-sparkling-peaz-200g?number=SHWD16243",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "017 Beach Vibes",
+    "tastes": ["Himbeere", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-017-beach-vibes-200g?number=SHWD15746",
+    "ean": "4251822800033"
+}, {
+    "producer": "Holster",
+    "name": "Mr. John",
+    "tastes": ["Ananas", "Pfirsich", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-mr.-john-200g?number=SHWD14231",
+    "ean": "4260626340676"
+}, {
+    "url": "/adalya-tabak-berlin-nights-1-200g?number=SHWD15874",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Nameless",
+    "name": "#40 Black Nana SHOOT ME",
+    "tastes": ["Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/nameless-tabak-40-black-nana-shoot-me-200g?number=SHWD20724",
+    "ean": "791732750782"
+}, {
+    "url": "/holster-tabak-yellow-punch-200g?number=SHWD19305",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Hookain",
+    "name": "Kaffa Yayo",
+    "tastes": ["Kokosnuss", "Milch"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-kaffa-yayo-200g?number=SHWD13514",
+    "ean": "4260656329023"
+}, {
+    "producer": "Holster",
+    "name": "Booster",
+    "tastes": ["Eisbonbon"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-booster-200g?number=SHWD16240",
+    "ean": "4260626341079"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "GZUZ  Große Freiheit",
+    "tastes": ["Cranberry", "Himbeere", "Vanille"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-gzuz-grosse-freiheit-200g?number=SHWD20672",
+    "ean": "4251822801504"
+}, {
+    "url": "/hookain-tabak-bubblenciaga-200g?number=SHWD14763",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Punk Man #86",
+    "tastes": ["Blaubeere", "Erdbeere", "Himbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-punk-man-200g?number=SHWD16653",
+    "ean": "4260587793580"
+}, {
+    "producer": "Chillma",
+    "name": "Tobacco  Persian @pple",
+    "tastes": ["Grüner Apfel"],
+    "type": "Shisha Tabak",
+    "amount": 250,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/chillma-tobacco---persian-@pple-250g?number=ssw17051",
+    "ean": "4260673310011"
+}, {
+    "producer": "Hookain",
+    "name": "Cactopus",
+    "tastes": ["Erdbeere", "Kaktusfeige", "Vanille"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-cactopus-200g?number=SHWD14276",
+    "ean": "4260656328934"
+}, {
+    "url": "/almassiva-tabak-wenn-der-mond-200g?number=SHWD15047",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Zomo",
+    "name": "Strawkify",
+    "tastes": ["Erdbeere", "Kiwi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-strawkify-200g?number=SHWD17760",
+    "ean": "7427129657077"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red Balls #3",
+    "tastes": ["Kirsche"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-chrr-3-200g?number=SHWD11403",
+    "ean": "8681655792629"
+}, {
+    "producer": "Hookain",
+    "name": "Beach Shribblez",
+    "tastes": ["Aprikose", "Eistee", "Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-beach-shribblez-200g?number=SHWD15321",
+    "ean": "4260656321201"
+}, {
+    "producer": "OS Tabak",
+    "name": "Os  Green Line Bonnie Clyde",
+    "tastes": ["Grüner Apfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/os-tabak-green-line-bonnie-clyde-200g?number=SHWD11491",
+    "ean": "4260585670104"
+}, {
+    "producer": "Hookain",
+    "name": "Cry Zkit",
+    "tastes": ["Drachenfrucht", "Kirsche"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-cry-zkit-200g?number=SHWD14893",
+    "ean": "4260656321935"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "021 Mama Candy",
+    "tastes": ["Guave", "Mango", "Pfirsich", "Sternfrucht (Carambola)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-021-mama-candy-200g?number=SHWD15748",
+    "ean": "4251822800125"
+}, {
+    "url": "/adalya-tabak-lady-killer-69-200g?number=SHWD15897",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Tobacco #001  PINK mellow",
+    "tastes": ["Grapefruit", "Limette", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tobacco-001-pink-mellow-200g?number=ssw19533",
+    "ean": "4251822800224"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "#28 Zafari",
+    "tastes": ["Ananas", "Drachenfrucht", "Grapefruit", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-28-zafari-200g?number=SHWD11242",
+    "ean": "023165431359"
+}, {
+    "producer": "Holster",
+    "name": "Winter Edition",
+    "tastes": ["Kekse"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-winter-edition-200g-?number=SHWD20614",
+    "ean": "4260626340713"
+}, {
+    "producer": "Hookain",
+    "name": "Asphalt Manta Erotik",
+    "tastes": ["Maracuja", "Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-asphalt-manta-erotik-200g?number=SHWD15548",
+    "ean": "4260656321218"
+}, {
+    "url": "/187-strassenbande-tabak-015-red-light-district-200g?number=SHWD15791",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Banger",
+    "name": "Baner  Zwei Optionen g",
+    "tastes": ["Birne", "Honigmelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/banger-tabak-zwei-optionen-200g?number=SHWD20692",
+    "ean": "4251776197258"
+}, {
+    "producer": "Al Fakher",
+    "name": "White Pods",
+    "tastes": ["Vanille"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-white-pods-200g?number=SHWD16520",
+    "ean": "5908224721983"
+}, {
+    "url": "/al-fakher-tabak-the-double-crunch-200g?number=SHWD16524",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "True Passion",
+    "name": "2.0  Okolom Gold",
+    "tastes": ["Birne", "Holunder", "Limette", "Minze (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-passion-2.0-tabak-okolom-gold-200g?number=SHWD18232",
+    "ean": "4250859815256"
+}, {
+    "url": "/hookain-tabak-laoz-200g?number=SHWD13209",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "053 Sparklin IZET g",
+    "tastes": ["Eistee", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-053-sparkling-ize-t-200g?number=SHWD15754",
+    "ean": "4251822800248"
+}, {
+    "producer": "Hookain",
+    "name": "Mono Loco g",
+    "tastes": ["Energy Drink", "Grapefruit", "Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-mongo-loco-200g?number=SHWD17383",
+    "ean": "4260656326879"
+}, {
+    "url": "/banger-tabak-x-200g?number=SHWD20690",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Al Fakher",
+    "name": "Bi Blue g",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-big-blue-200g?number=SHWD16523",
+    "ean": "5908224721952"
+}, {
+    "producer": "Nameless",
+    "name": "#711 L'OASIS",
+    "tastes": ["Ananas", "Grapefruit", "Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/nameless-tabak-711-loasis-200g?number=SHWD20425",
+    "ean": "4260620112217"
+}, {
+    "url": "/7days-tobacco-cold-melo-200g?number=ssw11203",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "True Passion",
+    "name": "Tobacco Le Chill",
+    "tastes": ["Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-passion-tobacco-le-chill-200g?number=ssw15862",
+    "ean": "4250859804649"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "043 Blue Devil",
+    "tastes": ["Blaubeere", "Feige", "Johannisbeere", "Milch"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-043-blue-devil-200g?number=SHWD15756",
+    "ean": "4251822800064"
+}, {
+    "url": "/xracher-tabak-butterfly-200g?number=SHWD17301",
+    "msg": "read ECONNRESET"
+}, {
+    "url": "/blaze-tabak-koka-koala-200g?number=SHWD20100",
+    "msg": "read ECONNRESET"
+}, {
+    "url": "/187-strassenbande-tabak-025-ello--raffa-200g?number=SHWD15751",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Al Fakher",
+    "name": "Maic Love g",
+    "tastes": ["Fruchtmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-magic-love-200g?number=SHWD16527",
+    "ean": "5908224721945"
+}, {
+    "url": "/hasso-tabak-pinky-twist-200g?number=SHWD19978",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Tynky Wynky #57",
+    "tastes": ["Grapefruit", "Limette", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-tynky-wynky-57-200g?number=SHWD15908",
+    "ean": "4260587792309"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red & Green #20",
+    "tastes": ["Apfel", "Grüner Apfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-red--green-20-200g?number=SHWD16636",
+    "ean": "8681655792889"
+}, {
+    "producer": "Hookain",
+    "name": "Prof Popsi",
+    "tastes": ["Cola", "Kirsche"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-prof-popsi-200g?number=SHWD19713",
+    "ean": "4260656322079"
+}, {
+    "producer": "Nameless",
+    "name": "#115 Californication",
+    "tastes": ["Blaubeere", "Kaktusfeige", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/nameless-tabak-115-californication-200g?number=SHWD11842",
+    "ean": "4260620119353"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Code Draon #16 g",
+    "tastes": ["Cola", "Energy Drink"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-code-dragon-16-200g?number=SHWD15880",
+    "ean": "4260587791845"
+}, {
+    "url": "/hookain-tabak-mellionair-200g?number=SHWD19399",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Blue Eyes #2",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-bluebr-2-200g?number=SHWD11400",
+    "ean": "8681655792605"
+}, {
+    "producer": "Holster",
+    "name": "Bono",
+    "tastes": ["Haselnuss", "Milch", "Teig"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/holster-tabak-bono-200g?number=SHWD13304",
+    "ean": "4260626340102"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "024 Miami Vice",
+    "tastes": ["Blaubeere", "Cranberry", "Kräutermix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-024-miami-vice-200g?number=SHWD15750",
+    "ean": "4251822800026"
+}, {
+    "url": "/al-fakher-tabak-fuchsia-200g?number=SHWD16518",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red Fall #15",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-red-fall-15-200g-?number=SHWD18284",
+    "ean": "8681655792742"
+}, {
+    "producer": "Blaze",
+    "name": "Lym Hype",
+    "tastes": ["Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 19.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blaze-tabak-lym-hype-200g?number=SHWD20095",
+    "ean": "4260656322246"
+}, {
+    "producer": "7 Days",
+    "name": "7Days Tobacco Passion on the Ice",
+    "tastes": ["Maracuja", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 14.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/7days-tobacco-passion-on--the-ice-200g?number=ssw11202",
+    "ean": "5902605450370"
+}, {
+    "producer": "Nameless",
+    "name": "#101 Black Chai",
+    "tastes": ["Schwarzer Tee", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/nameless-tabak-101-sunny-chai-200g?number=SHWD11823",
+    "ean": "791732750447"
+}, {
+    "producer": "Hookain",
+    "name": "Fruit Ninja",
+    "tastes": ["Fruchtmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-fruit-ninja-200g?number=SHWD17729",
+    "ean": "4260656326428"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Colours #18",
+    "tastes": ["Erdbeere", "Grapefruit", "Grenadille", "Kirsche", "Maracuja", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-colours-18-200g?number=SHWD18241",
+    "ean": "8681655792643"
+}, {
+    "producer": "7 Days",
+    "name": "7Days Tobacco Cold Lim",
+    "tastes": ["Frische", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 14.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/7days-tobacco-cold-lim-200g?number=ssw11881",
+    "ean": "5902605450332"
+}, {
+    "url": "/xracher-tabak-p.f.200g?number=SHWD13214",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Blue Draon #9 g",
+    "tastes": ["Blaubeere", "Drachenfrucht"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-blue-dragon-9-200g?number=SHWD15876",
+    "ean": "4260587791784"
+}, {
+    "producer": "Argileh",
+    "name": "Arileh  Bubble Mnt g",
+    "tastes": ["Kaugummi", "Minze (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/argileh-tabak-bubble-mnt-200g?number=SHWD18249",
+    "ean": "4260623440218"
+}, {
+    "url": "/187-strassenbande-tobacco-002-le-moon-200g?number=ssw19534",
+    "msg": "read ECONNRESET"
+}, {
+    "url": "/hookain-tabak-pink-lemenciaga-200g?number=SHWD14167",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Almassiva",
+    "name": "Massiv",
+    "tastes": ["Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/almassiva-tabak-massiv-200g?number=SHWD15048",
+    "ean": "4250898700445"
+}, {
+    "url": "/adalya-tabak-ice-kyba-67-200g?number=SHWD15894",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Sky Fall #51",
+    "tastes": ["Honigmelone", "Pfirsich", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-sky-fall-51-200g?number=SHWD15903",
+    "ean": "4260587792248"
+}, {
+    "url": "/zomo-tabak-joosie-slide-200g?number=SHWD16594",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Hasso",
+    "name": "Afro Kiez",
+    "tastes": ["Beerenmix", "Erdbeere", "Himbeere", "Kirsche"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hasso-tabak-afro-kiez-200g?number=SHWD19778",
+    "ean": "4251822801108"
+}, {
+    "url": "/banger-tabak-happy-birthday-200g?number=SHWD19835",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Xracher",
+    "name": "XRacher  Brry Bomb",
+    "tastes": ["Waldbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/xracher-tabak-brry-bombl-200g?number=SHWD11894",
+    "ean": "4260482899202"
+}, {
+    "producer": "Capital Bra Smoke",
+    "name": "Capital Bra  Melodien",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/capital-bra-tabak-melodien-200g?number=SHWD13246",
+    "ean": "745114091277"
+}, {
+    "producer": "Hookain",
+    "name": "Soleiro Spliff",
+    "tastes": ["Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-soleiro-spliff-200g?number=SHWD13513",
+    "ean": "4260656329092"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "#41 Voodoo Kin g",
+    "tastes": ["Fruchtmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-41-voodoo-king-200g?number=SHWD14230",
+    "ean": "4251822801009"
+}, {
+    "producer": "Hookah Squad",
+    "name": "Ice Fresh Apl",
+    "tastes": ["Apfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookah-squad-tabak-ice-fresh-apl-200g?number=SHWD15292",
+    "ean": "4250692413879"
+}, {
+    "producer": "Almassiva",
+    "name": "Nasib",
+    "tastes": ["Zitronenkuchen"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/almassiva-tabak-nasib-200g?number=SHWD17844",
+    "ean": "4251776100500"
+}, {
+    "url": "/mbm-tabak-red-line-senshi-200g?number=SHWD19465",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Banger",
+    "name": "Baner  Maghreb Gang g",
+    "tastes": ["Apfel", "Erdbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/banger-tabak-maghreb-gang-200g?number=SHWD19837",
+    "ean": "4251776196909"
+}, {
+    "producer": "True Passion",
+    "name": "Tobacco Arctic Line",
+    "tastes": ["Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-passion-tobacco-arctic-line-200g?number=ssw16727",
+    "ean": "4250859801921"
+}, {
+    "url": "/aqua-mentha-tabak-kmsutra-9-200g?number=SHWD12170",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 The Two App #50",
+    "tastes": ["Anis (Lakritze)", "Doppelapfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-the-two-app-50-200g?number=SHWD14539",
+    "ean": "8681511384630"
+}, {
+    "producer": "Bushido",
+    "name": "SONNY BLACK 200g",
+    "tastes": ["Blaubeere", "Guave"],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bushido-tabak-sonny-black-200g?number=SHWD16466",
+    "ean": "4250859813245"
+}, {
+    "url": "/al-fakher-tabak-white-flash-200g?number=SHWD16526",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Wild Beast",
+    "tastes": ["Beerenmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-wild-beast-200g?number=SHWD16812",
+    "ean": "4251822800279"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red & Blue #17",
+    "tastes": ["Beerenmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-red--blue-17-200g?number=SHWD18242",
+    "ean": "8681655792766"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  Green Drops g",
+    "tastes": ["Energy Drink", "Kaktus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-green-drops-200g?number=SHWD19646",
+    "ean": "4250859816413"
+}, {
+    "producer": "Hasso",
+    "name": "Le Porn",
+    "tastes": ["Menthol (TPD2)", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hasso-tabak-le-porn-200g?number=SHWD19776",
+    "ean": "4251822804079"
+}, {
+    "producer": "Banger",
+    "name": "Baner  Niemals Antäuschen g",
+    "tastes": ["Beerenmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/banger-tabak-niemals-antaeuschen-200g?number=SHWD19836",
+    "ean": "4251776196916"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Black Goku",
+    "tastes": ["Johannisbeere", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 1,
+    "unit": "kg",
+    "price": 74.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-black-goku-1kg?number=SHWD19844",
+    "ean": "2000100048245"
+}, {
+    "producer": "MBM Tabak",
+    "name": "MBM  Blue Line HAZZAR",
+    "tastes": ["Drachenfrucht", "Limette", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/mbm-tabak-blue-line-hazzar-200g?number=SHWD20124",
+    "ean": "4260596827399"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Ice Lie On The Rocks #70",
+    "tastes": ["Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-ice-lie-on-the-rocks-70-200g?number=SHWD15895",
+    "ean": "4260587792507"
+}, {
+    "producer": "Nameless",
+    "name": "#06 Draon Lady g",
+    "tastes": ["Drachenfrucht"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/nameless-tabak-06-dragon-lady-200g?number=SHWD16285",
+    "ean": "791732750560"
+}, {
+    "url": "/zomo-tabak-burbrry-redd-200g?number=SHWD17759",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  Purple Drops g",
+    "tastes": ["Acai", "Energy Drink"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-purple-drops-200g?number=SHWD18108",
+    "ean": "4250859815225"
+}, {
+    "producer": "Zomo",
+    "name": "Oj Purple",
+    "tastes": ["Johannisbeere", "Limonade", "Orange"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-oj-purple-200g?number=SHWD19852",
+    "ean": "048649449972"
+}, {
+    "producer": "7 Days",
+    "name": "7Days Tobacco Sour Bomb",
+    "tastes": ["Grüner Apfel", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 14.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/7days-tobacco-sour-bomb-200g?number=ssw11873",
+    "ean": "5902605450509"
+}, {
+    "producer": "Almassiva",
+    "name": "Ghettolied",
+    "tastes": ["Blutorange"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/almassiva-tabak-ghettolied-200g?number=SHWD15049",
+    "ean": "4250898700469"
+}, {
+    "producer": "Bushido",
+    "name": "SONNENBANK FLAVOUR",
+    "tastes": ["Limette", "Mango", "Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bushido-tabak-sonnenbank-flavour-200g?number=SHWD16465",
+    "ean": "4250859813184"
+}, {
+    "producer": "Hookain",
+    "name": "XTreme Blu Bay",
+    "tastes": ["Johannisbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-x-treme-blu-bay-200g?number=SHWD19854",
+    "ean": "2000100048429"
+}, {
+    "producer": "Zomo",
+    "name": "Bloody Fusion",
+    "tastes": ["Blutorange", "Passionsfrucht"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-bloody-fusion-200g?number=SHWD20383",
+    "ean": "048464945031"
+}, {
+    "url": "/xracher-tobacco---cact-lem-mang-200g?number=ssw20067",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Tobacco #013 Cool Wave",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tobacco-013-cool-wave-200g?number=ssw19545",
+    "ean": "4251822800200"
+}, {
+    "producer": "Hookain",
+    "name": "Lemenciaa g",
+    "tastes": ["Grüner Tee", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-lemenciaga-200g?number=SHWD13512",
+    "ean": "4260656329047"
+}, {
+    "producer": "Hookah Squad",
+    "name": "Sweet Cherie",
+    "tastes": ["Kirsche"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookah-squad-tabak-sweet-cherie-200g?number=SHWD15296",
+    "ean": "4250692413916"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "019 California Love",
+    "tastes": ["Ananas", "Mango", "Physalis", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-019-california-love-200g?number=SHWD15747",
+    "ean": "4251822800071"
+}, {
+    "producer": "Hookain",
+    "name": "Bert Ehre RR",
+    "tastes": ["Erdbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-bert-ehre-rr-200g?number=SHWD16939",
+    "ean": "4260656326886"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Needles Limited Edition",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-needles-limited-edition-200g-?number=SHWD17804",
+    "ean": "4260647072792"
+}, {
+    "producer": "MBM Tabak",
+    "name": "MBM  Red Line NAYOMI",
+    "tastes": ["Kaktusfeige", "Menthol (TPD2)", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/mbm-tabak-red-line-nayomi-200g?number=SHWD19864",
+    "ean": "4260596827474"
+}, {
+    "producer": "Blaze",
+    "name": "White Heaven",
+    "tastes": ["Bisquit", "Karamell", "NY Cheesecake", "Vanille", "Zitronenabrieb"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 19.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blaze-tabak-white-heaven-200g?number=SHWD20123",
+    "ean": "4260656322260"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "BoneZ MC",
+    "tastes": ["Honigmelone", "Karamell", "Waldbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-bonez-mc-200g?number=SHWD20657",
+    "ean": "4251822801450"
+}, {
+    "producer": "Almassiva",
+    "name": "Blut egen Blut g",
+    "tastes": ["Drachenfrucht", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/almassiva-tabak-blut-gegen-blut-200g?number=SHWD15051",
+    "ean": "4250898700438"
+}, {
+    "url": "/7days-tobacco-green-slip-200g?number=ssw15883",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Wyld Mn #16",
+    "tastes": ["Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-wyld-mn-16-200g?number=SHWD10585",
+    "ean": "8681655792759"
+}, {
+    "producer": "Nameless",
+    "name": "#116 Pablo",
+    "tastes": ["Blaubeere", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/nameless-tabak-pablo-200g?number=SHWD11843",
+    "ean": "4260620119377"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  BELGIAN MORNING",
+    "tastes": ["Blaubeere", "Erdbeere", "Teig"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-belgian-morning-200g?number=SHWD14100",
+    "ean": "4260647070323"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "014 Mrs. Greens",
+    "tastes": ["Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-014-mrs.-greens-200g?number=SHWD15792",
+    "ean": "4251822800149"
+}, {
+    "url": "/adalya-tabak-blue-8-200g?number=SHWD15875",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Bushido",
+    "name": "AALIYAH",
+    "tastes": ["Drachenfrucht", "Honigmelone", "Johannisbeere", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bushido-tabak-aaliyah-200g?number=SHWD16461",
+    "ean": "4250859813283"
+}, {
+    "producer": "030 Made In Berlin",
+    "name": "Roter Flüel g",
+    "tastes": ["Energy Drink"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/030-made-in-berlin-tabak-roter-fluegel-200g?number=SHWD16471",
+    "ean": "710535471410"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Solo Exotic",
+    "tastes": ["Eiscreme", "Maracuja", "Vanille"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-solo-exotic-200g?number=SHWD16811",
+    "ean": "4251822800286"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Waternelom",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-waternelom-200g?number=SHWD16814",
+    "ean": "4251822800552"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  Junle Beat g",
+    "tastes": ["Banane"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-jungle-beat-200g?number=SHWD17775",
+    "ean": "4260647073096"
+}, {
+    "producer": "Argileh",
+    "name": "Arileh  Chapo MLN g",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/argileh-tabak-chapo-mln-200g?number=SHWD19617",
+    "ean": "4260623440454"
+}, {
+    "producer": "Hookain",
+    "name": "White Brown",
+    "tastes": ["Cappuccino", "Käsekuchen", "Popcorn"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-white-brown-200g?number=SHWD19774",
+    "ean": "4260656328743"
+}, {
+    "producer": "Banger",
+    "name": "Baner  Kuck Kuck g",
+    "tastes": ["Kaktus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/banger-tabak-kuck-kuck-200g?number=SHWD19840",
+    "ean": "4251776196893"
+}, {
+    "producer": "Hookain",
+    "name": "Kivi Kin g",
+    "tastes": ["Kiwi", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-kivi-king-200g?number=SHWD14165",
+    "ean": "4260656329030"
+}, {
+    "producer": "Hookain",
+    "name": "Code in Love",
+    "tastes": ["Kaktus", "Pfirsich", "Vanille", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-code-in-love-200g?number=SHWD14166",
+    "ean": "4260656328965"
+}, {
+    "url": "/187-strassenbande-tabak-029-purple-drank-200g-?number=SHWD15752",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Al Fakher",
+    "name": "Red Smash",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-red-smash-200g?number=SHWD16519",
+    "ean": "5908224721969"
+}, {
+    "producer": "Zomo",
+    "name": "Hype X",
+    "tastes": ["Grapefruit", "Limette", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-hype-x-200g?number=SHWD16599",
+    "ean": "7427129656964"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 La Bonita #88 200g",
+    "tastes": ["Apfel", "Erdbeere", "Kirsche", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-la-bonita-200g?number=SHWD16652",
+    "ean": "4260587792972"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Wild Forest",
+    "tastes": ["Beerenmix", "Erdbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-wild-forest-200g?number=SHWD16784",
+    "ean": "4260647071832"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Violet Dream #21",
+    "tastes": ["Pflaume"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-violet-dream-21-200g?number=SHWD18286",
+    "ean": "8681655792704"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Crazy Chief #4",
+    "tastes": ["Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-crazy-chief-4-200g?number=SHWD18287",
+    "ean": "8681655792636"
+}, {
+    "producer": "MBM Tabak",
+    "name": "MBM  Red Line NOBU NAGA",
+    "tastes": ["Birne", "Limette", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/mbm-tabak-red-line-nobu-naga-200g?number=SHWD19464",
+    "ean": "4260596827429"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Desert Eale g",
+    "tastes": ["Kaktus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-desert-eagle-200g?number=SHWD20043",
+    "ean": "4260647072976"
+}, {
+    "producer": "Zomo",
+    "name": "Punch Malone",
+    "tastes": ["Himbeere", "Vanille", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-punch-malone-200g?number=SHWD20381",
+    "ean": "048464945017"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Tobacco #010  woMAN - toGO",
+    "tastes": ["Limette", "Mango", "Physalis"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tobacco-woman-togo-200g?number=ssw19542",
+    "ean": "4251822800835"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Tobacco #023 Draon Blood g",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tobacco-dragon-blood-200g?number=ssw19555",
+    "ean": "4251822800897"
+}, {
+    "producer": "Nameless",
+    "name": "#21 Red",
+    "tastes": ["Erdbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/nameless-tabak-21-red-200g?number=SHWD11812",
+    "ean": "791732750669"
+}, {
+    "producer": "Darkside",
+    "name": "Base  FALLING STAR",
+    "tastes": ["Mango", "Passionsfrucht"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-falling-star-200g?number=SHWD15263",
+    "ean": "4260647072587"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Double Yellow #24",
+    "tastes": ["Honigmelone", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-double-yellow-24-200g?number=SHWD15884",
+    "ean": "4260587791920"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Mn Tano Ice #33 g",
+    "tastes": ["Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-mn-tango-ice-33-200g?number=SHWD15901",
+    "ean": "4260587792750"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Pyc Blue Cool #74",
+    "tastes": ["Blaubeere", "Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-pyc-blue-cool-74-200g?number=SHWD15902",
+    "ean": "4260587792521"
+}, {
+    "url": "/adalya-tabak-turkish-boom-64-200g?number=SHWD15907",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Waterlon Cool #75",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-waterlon-cool-75-200g?number=SHWD15910",
+    "ean": "4260587792538"
+}, {
+    "producer": "Zomo",
+    "name": "Paeris 200g",
+    "tastes": ["Himbeere"],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-paeris-200g?number=SHWD16595",
+    "ean": "7427129656926"
+}, {
+    "url": "/darkside-base-tabak-hola-200g?number=SHWD16637",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Kool Bitch",
+    "tastes": ["Eiscreme", "Pfirsich", "Vanille"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-kool-bitch-200g?number=SHWD16813",
+    "ean": "4251822800538"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  100% g",
+    "tastes": ["Honig", "Limette", "Minze (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-100-200g?number=SHWD17020",
+    "ean": "4250859813023"
+}, {
+    "url": "/fadi-tobaggo-tabak-crazy-love-200g?number=SHWD17026",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Brohood",
+    "name": "# 3 Dietz",
+    "tastes": ["Kaffee", "Pistazie", "Vanille"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--3-dietz-200g?number=SHWD17098",
+    "ean": "4260578261876"
+}, {
+    "producer": "Hookain",
+    "name": "Orojina RR",
+    "tastes": ["Käsekuchen", "Orange", "Popcorn"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookain-tabak-orojina-rr-200g?number=SHWD17146",
+    "ean": "4260656326893"
+}, {
+    "producer": "Brohood",
+    "name": "# 8 KRem",
+    "tastes": ["Minze (TPD2)", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--8-k-rem-200g?number=SHWD17502",
+    "ean": "4260578261920"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Esmeralda #89",
+    "tastes": ["Blaubeere", "Drachenfrucht", "Kiwi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-2.0-esmeralda-89-200g?number=SHWD18208",
+    "ean": "4260587793634"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Frosty App #71",
+    "tastes": ["Grüner Apfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-frosty-app-71-200g?number=SHWD15886",
+    "ean": "4260587792460"
+}, {
+    "producer": "Brohood",
+    "name": "# 8 XTreme",
+    "tastes": ["Minze (TPD2)", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--8-x-treme-200g?number=SHWD18898",
+    "ean": "4260578262118"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red Malina #11",
+    "tastes": ["Himbeere", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-red-malina-11-200g?number=SHWD19398",
+    "ean": "8681655792674"
+}, {
+    "producer": "Hasso",
+    "name": "Melo Punch",
+    "tastes": ["Honigmelone", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hasso-tabak-melo-punch-200g?number=SHWD19779",
+    "ean": "4251822801139"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Lokko #12",
+    "tastes": ["Holunder", "Ingwer", "Menthol (TPD2)", "Orange", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-lokko-12-200g?number=SHWD10579",
+    "ean": "8681655792681"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  Blue Crump",
+    "tastes": ["Blaubeere", "Teig"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-blue-crump-200g?number=SHWD14101",
+    "ean": "4260647070330"
+}, {
+    "producer": "Hookah Squad",
+    "name": "Wild Fresh",
+    "tastes": ["Beerenmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookah-squad-tabak-wild-fresh-200g?number=SHWD15298",
+    "ean": "4250692413930"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Blue Ice #2",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-blue-ice-2-200g?number=SHWD15877",
+    "ean": "4260587792446"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Green Leon #83",
+    "tastes": ["Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-green-leon-83-200g?number=SHWD15888",
+    "ean": "4260587791999"
+}, {
+    "url": "/adalya-tabak-green-leon-cool-84-200g?number=SHWD15889",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Ice Kaktü #72",
+    "tastes": ["Eiscreme", "Kaktus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-ice-kaktue-72-200g?number=SHWD15893",
+    "ean": "4260587792491"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Ice Pyc #73",
+    "tastes": ["Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-ice-pyc-73-200g?number=SHWD15896",
+    "ean": "4260587792514"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Waterlon #59",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-waterlon-59-200g?number=SHWD15909",
+    "ean": "4260587792323"
+}, {
+    "producer": "Al Fakher",
+    "name": "Yellow",
+    "tastes": ["Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-yellow-200g?number=SHWD16521",
+    "ean": "5908224722065"
+}, {
+    "producer": "Al Fakher",
+    "name": "Twiwi",
+    "tastes": ["Kiwi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-twiwi-200g?number=SHWD16522",
+    "ean": "5908224721990"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Capri #85",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-capri-200g?number=SHWD16651",
+    "ean": "4260587792965"
+}, {
+    "url": "/musthave-undercoal-tabak-milric-200g?number=SHWD16797",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Zomo",
+    "name": "Cactuz Jack",
+    "tastes": ["Kaktus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-cactuz-jack-200g?number=SHWD17761",
+    "ean": "7427129657053"
+}, {
+    "producer": "Hip Island",
+    "name": "Killin my Soul g",
+    "tastes": ["Drachenfrucht", "Erdbeere", "Frische", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hip-island-tabak-killing-my-soul-200g?number=SHWD20620",
+    "ean": "4260596827887"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Tobacco #008  reen GRIZZLY g",
+    "tastes": ["Birne"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tobacco-008-green-grizzly-200g?number=ssw19540",
+    "ean": "4251822800187"
+}, {
+    "producer": "Darkside",
+    "name": "Base  SUPERNOVA",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-supernova-200g?number=SHWD14071",
+    "ean": "4260647072136"
+}, {
+    "producer": "Darkside",
+    "name": "Core  FALLING STAR",
+    "tastes": ["Mango", "Passionsfrucht"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-falling-star-200g?number=SHWD15264",
+    "ean": "4260647072617"
+}, {
+    "producer": "Hookah Squad",
+    "name": "Mnja! g",
+    "tastes": ["Mango", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookah-squad-tabak-mngja-200g?number=SHWD15295",
+    "ean": "4250692413909"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Cindys #14",
+    "tastes": ["Beerenmix", "Honigmelone", "Mango", "Maracuja", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-cindys-14-200g?number=SHWD15879",
+    "ean": "4260587791821"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Endless Flirt #25",
+    "tastes": ["Blaubeere", "Mango", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-endless-flirt-25-200g?number=SHWD15885",
+    "ean": "4260587791937"
+}, {
+    "producer": "Smokah",
+    "name": "Arizonas",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokah-tabak-arizonas-200g?number=SHWD17175",
+    "ean": "4260692490039"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Dulcinea #90",
+    "tastes": ["Apfel", "Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-2.0-dulcinea-90-200g?number=SHWD18209",
+    "ean": "4260587793627"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Purple Teeny #22",
+    "tastes": ["Mangosteen"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak--purple-teeny-22-200g?number=SHWD18285",
+    "ean": "8681655792711"
+}, {
+    "producer": "Zomo",
+    "name": "Draco Draple",
+    "tastes": ["Drachenfrucht", "Grüner Apfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-draco-draple-200g?number=SHWD19524",
+    "ean": "7427245789751"
+}, {
+    "producer": "Zomo",
+    "name": "Grapto Currancy",
+    "tastes": ["Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-grapto-currancy-200g?number=SHWD19525",
+    "ean": "7427245789775"
+}, {
+    "producer": "Capital Bra Smoke",
+    "name": "Capital Bra  Sunny O.J",
+    "tastes": ["Menthol (TPD2)", "Orange"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/capital-bra-tabak-sunny-o.j-200g?number=SHWD19741",
+    "ean": "745114913562"
+}, {
+    "url": "/ocean-hookah-tabak-koka-200g?number=SHWD20759",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Darkside",
+    "name": "Base  LEMNBLAST",
+    "tastes": ["Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-lemnblast-200g?number=SHWD14067",
+    "ean": "4260647072075"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "021 Holy Tropical",
+    "tastes": ["Feige", "Mango", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-021-holy-tropical-200g?number=SHWD15793",
+    "ean": "4251822800156"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Hawaii #10",
+    "tastes": ["Ananas", "Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-hawaii-10-200g?number=SHWD15890",
+    "ean": "4260587792019"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Mn Tano #32 g",
+    "tastes": ["Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-mn-tango-32-200g?number=SHWD15900",
+    "ean": "4260587792132"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Straw Bana Ice #22",
+    "tastes": ["Banane", "Erdbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-straw-bana-ice-22-200g?number=SHWD15904",
+    "ean": "4260587792361"
+}, {
+    "producer": "Bushido",
+    "name": "CCN FLAVOUR",
+    "tastes": ["Holunder", "Limonade", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bushido-tabak-ccn-flavour-200g?number=SHWD16463",
+    "ean": "4250859813221"
+}, {
+    "producer": "Zomo",
+    "name": "Louis G",
+    "tastes": ["Blaubeere", "Guave"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-louis-g-200g?number=SHWD16600",
+    "ean": "7427129656971"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Hola",
+    "tastes": ["Cola"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-hola-200g?number=SHWD16638",
+    "ean": "4260647071689"
+}, {
+    "producer": "Blue Horse",
+    "name": "2.0 MOSCOW EVENINGS",
+    "tastes": ["Pfirsich", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blue-horse-tabak-moscow-evenings-200g?number=SHWD16835",
+    "ean": "4260587798141"
+}, {
+    "producer": "Darkside",
+    "name": "Base  SPACE ICHI",
+    "tastes": ["Litschi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-space-ichi-200g?number=SHWD17695",
+    "ean": "4260647072709"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Green Snake #5",
+    "tastes": ["Gurke"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-green-snake-5-200g?number=SHWD18466",
+    "ean": "8681655792612"
+}, {
+    "producer": "Hasso",
+    "name": "Chicharito",
+    "tastes": ["Kirsche", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hasso-tabak-chicharito-200g?number=SHWD19775",
+    "ean": "4251822801115"
+}, {
+    "producer": "Zomo",
+    "name": "Blindin Lmns g",
+    "tastes": ["Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-blinding-lmns-200g?number=SHWD19853",
+    "ean": "048464944973"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  PURPLE DREAMS",
+    "tastes": ["Menthol (TPD2)", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-purple-dreams-200g?number=SHWD14107",
+    "ean": "4260647070392"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "SA4 Edition The Palm",
+    "tastes": ["Kokosnuss", "Limette", "Vanille"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-sa4-edition-the-palm-200g?number=SHWD19972",
+    "ean": "4251822801221"
+}, {
+    "producer": "Aeon",
+    "name": "Black Series II Purpura",
+    "tastes": ["Gewürze", "Lavendel", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 22.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aeon-tabak-black-series-ii-purpura-200g?number=SHWD20597",
+    "ean": "048544890251"
+}, {
+    "producer": "Hip Island",
+    "name": "Beach of Love",
+    "tastes": ["Frische", "Honigmelone", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hip-island-tabak-beach-of-love-200g?number=SHWD20623",
+    "ean": "4260596827856"
+}, {
+    "producer": "Hip Island",
+    "name": "North Shore",
+    "tastes": ["Frische", "Limette", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hip-island-tabak-north-shore-200g?number=SHWD20640",
+    "ean": "4260596827849"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "i SCREAM Pist*cio",
+    "tastes": ["Pistazie"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-i-scream-pistcio-200g?number=SHWD20696",
+    "ean": "4251822801481"
+}, {
+    "producer": "True Cloudz",
+    "name": "Four",
+    "tastes": ["Passionsfrucht", "Pomegrenade"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-cloudz-tabak-four-200g?number=SHWD20700",
+    "ean": "4260713940048"
+}, {
+    "producer": "Ocean Hookah",
+    "name": "KA!F",
+    "tastes": ["Limette", "Menthol (TPD2)", "Zitrone", "Zuckerrohr"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/ocean-hookah-tabak-kaif-200g?number=SHWD20760",
+    "ean": "7141267586722"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "TYP JAVA #6",
+    "tastes": ["Energy Drink", "Guave"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-typ-java-6-200g?number=SHWD15278",
+    "ean": "8681655792735"
+}, {
+    "producer": "Smokeys",
+    "name": "004 O#ANG3",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokeys-tabak-004-oang3-200g?number=SHWD16287",
+    "ean": "4260461460041"
+}, {
+    "producer": "Zomo",
+    "name": "Mellow Drip",
+    "tastes": ["Wassermelone", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-mellow-drip-200g?number=SHWD16596",
+    "ean": "7427129656933"
+}, {
+    "url": "/zomo-tabak-lucid-lymez-200g?number=SHWD16598",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Blue Horse",
+    "name": "2.0 BAKU NIGHTS",
+    "tastes": ["Banane"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blue-horse-tabak-baku-nights-200g?number=SHWD16831",
+    "ean": "4260587798196"
+}, {
+    "producer": "Darkside",
+    "name": "Base  KALEE GRAP",
+    "tastes": ["Grapefruit", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-kalee-grap-200g?number=SHWD17693",
+    "ean": "4260647072648"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  French Puff",
+    "tastes": ["Erdbeere", "Mascarpone", "Teig"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-french-puff-200g?number=SHWD17774",
+    "ean": "4260647073034"
+}, {
+    "producer": "Brohood",
+    "name": "# 11 der Merre",
+    "tastes": ["Roter Apfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--11-der-merre-200g?number=SHWD18899",
+    "ean": "4260578262101"
+}, {
+    "producer": "Smokah",
+    "name": "Coluco",
+    "tastes": ["Holunder", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokah-tabak-coluco-200g?number=SHWD19496",
+    "ean": "4260692490138"
+}, {
+    "producer": "Bodacious",
+    "name": "Babaherbal",
+    "tastes": ["Traube", "Zuckerrohr"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bodacious-tabak-babaherbal-200g?number=SHWD19944",
+    "ean": "4893273112671"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  CRIMSON BOOM",
+    "tastes": ["Himbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-crimson-boom-200g?number=SHWD20046",
+    "ean": "4260647075892"
+}, {
+    "producer": "Blaze",
+    "name": "Batluva",
+    "tastes": ["Menthol (TPD2)", "Pistazie", "Vanillecreme"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 19.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blaze-tabak-batluva-200g?number=SHWD20102",
+    "ean": "4260656322277"
+}, {
+    "producer": "Darkside",
+    "name": "Base  GENERIS RASPERRY",
+    "tastes": ["Himbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-generis-rasperry-200g?number=SHWD20608",
+    "ean": "4260647073638"
+}, {
+    "producer": "Musthave Undercoal",
+    "name": "Melonaide",
+    "tastes": ["Sirup", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 21.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/musthave-undercoal-tabak-melonaide-200g?number=SHWD14876",
+    "ean": "4605648023464"
+}, {
+    "producer": "Hookah Squad",
+    "name": "Melllove",
+    "tastes": ["Honigmelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookah-squad-tabak-melllove-200g?number=SHWD15291",
+    "ean": "4250692413862"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Grayp #29 200g",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-grayp-29-200g?number=SHWD15887",
+    "ean": "4260587791975"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Ice Boni #6",
+    "tastes": ["Bonbon", "Fruchtmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-ice-boni-6-200g?number=SHWD15892",
+    "ean": "4260587792484"
+}, {
+    "url": "/fumari-tabak-sorrentocello-200g?number=SHWD16313",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Zomo",
+    "name": "Pik Pok",
+    "tastes": ["Birne", "Fruchtmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/zomo-tabak-pik-pok-200g?number=SHWD16597",
+    "ean": "7427129656940"
+}, {
+    "producer": "Lady Boss",
+    "name": "Million Dollar Smile",
+    "tastes": ["Birne", "Grapefruit", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/lady-boss-tabak-million-dollar-smile-200g?number=SHWD16609",
+    "ean": "2000100014387"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Wild Forest",
+    "tastes": ["Beerenmix", "Erdbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-wild-forest-200g?number=SHWD16783",
+    "ean": "4260647071740"
+}, {
+    "producer": "Blue Horse",
+    "name": "2.0 ALHAMBRA",
+    "tastes": ["Beerenmix", "Granatapfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blue-horse-tabak-alhambra-200g?number=SHWD16830",
+    "ean": "4260587798646"
+}, {
+    "producer": "Smokah",
+    "name": "Iso Power",
+    "tastes": ["Grapefruit", "Limette", "Limonade"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokah-tabak-iso-power-200g?number=SHWD17171",
+    "ean": "4260692490084"
+}, {
+    "producer": "Mazaya",
+    "name": "#1 Sunshine BreeZ",
+    "tastes": ["Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/mazaya-tabak-1-sunshine-breez-200g?number=SHWD17489",
+    "ean": "6253345328825"
+}, {
+    "producer": "Brohood",
+    "name": "# 7 Kurt du Wixxa",
+    "tastes": ["Kaugummi", "Kiwi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--7-kurt-du-wixxa-200g?number=SHWD17501",
+    "ean": "4260578261913"
+}, {
+    "producer": "OOOUUUU Gringo Smoke",
+    "name": "OOOUUUU Grino Smoke  Blue Lagoon g",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/ooouuuu-gringo-smoke-tabak-blue-lagoon-200g?number=SHWD17788",
+    "ean": "602343054162"
+}, {
+    "url": "/maridan-tabak-lmn-cooky-200g?number=SHWD17901",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Argileh",
+    "name": "Arileh  [email protected] g",
+    "tastes": ["Doppelapfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/argileh-tabak-2@luxury-200g?number=SHWD18428",
+    "ean": "4260623442328"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Tear",
+    "tastes": ["Birne"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-tear-200g?number=SHWD19402",
+    "ean": "4260647072822"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  TANGER SPLASH",
+    "tastes": ["Mandarine"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-tanger-splash-200g?number=SHWD19771",
+    "ean": "4260647075861"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Desperado #87",
+    "tastes": ["Erdbeere", "Granadilla", "Grapefruit", "Limette", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-2.0-desperado-87-200g?number=SHWD19810",
+    "ean": "4260587793641"
+}, {
+    "producer": "Hasso",
+    "name": "hayVan",
+    "tastes": ["Vanille", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hasso-tabak-hayvan-200g?number=SHWD19977",
+    "ean": "4251822801214"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  Pika Pika g",
+    "tastes": ["Menthol (TPD2)", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-pika-pika-200g?number=SHWD19985",
+    "ean": "4250859816109"
+}, {
+    "producer": "Aeon",
+    "name": "Black Series III Viridi",
+    "tastes": ["Kiwi", "Rose"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 22.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/-aeon-tabak-black-series-iii-viridi-200g?number=SHWD20598",
+    "ean": "048544890268"
+}, {
+    "url": "/darkside-base-tabak-b-monster-200g?number=SHWD20676",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Barvy O",
+    "tastes": ["Orangensaft"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-barvy-o-200g?number=SHWD20677",
+    "ean": "2000100056707"
+}, {
+    "producer": "True Cloudz",
+    "name": "Three",
+    "tastes": ["Honigmelone", "Limonade", "Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-cloudz-tabak-three-200g?number=SHWD20699",
+    "ean": "4260713940031"
+}, {
+    "producer": "True Cloudz",
+    "name": "Six",
+    "tastes": ["Red Berry"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-cloudz-tabak-six-200g?number=SHWD20702",
+    "ean": "4260713940062"
+}, {
+    "producer": "Ocean Hookah",
+    "name": "FUS!ON",
+    "tastes": ["Amaretto", "Kirsche", "Mandel", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/ocean-hookah-tabak-fusion-200g?number=SHWD20761",
+    "ean": "7141267586845"
+}, {
+    "producer": "Ocean Hookah",
+    "name": "K!VICE",
+    "tastes": ["Kaktus", "Kiwi", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/ocean-hookah-tabak-kivice-200g?number=SHWD20762",
+    "ean": "7141267586975"
+}, {
+    "producer": "Nameless",
+    "name": "#39 Black Pearl 200g",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/nameless-tabak-39-black-pearl-200g?number=SHWD11846",
+    "ean": "791732750775"
+}, {
+    "producer": "Odinson",
+    "name": "ASGARD",
+    "tastes": ["Haselnuss", "Rose", "Teig"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 22.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/odinson-tabak-asgard-200g?number=SHWD12222",
+    "ean": "4260482892531"
+}, {
+    "producer": "Darkside",
+    "name": "Core  GENERIS RASPERRY",
+    "tastes": ["Himbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-generis-rasperry-200g?number=SHWD14086",
+    "ean": "4260647073997"
+}, {
+    "producer": "Darkside",
+    "name": "Core  LEMNBLAST",
+    "tastes": ["Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-lemnblast-200g?number=SHWD14090",
+    "ean": "4260647072853"
+}, {
+    "producer": "Darkside",
+    "name": "Core  RED T",
+    "tastes": ["Hibiskus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-red-t-200g?number=SHWD14092",
+    "ean": "4260647074116"
+}, {
+    "producer": "Darkside",
+    "name": "Core  SUPERNOVA",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-supernova-200g?number=SHWD14094",
+    "ean": "4260647072167"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  TENDER TAR",
+    "tastes": ["milchschokolade", "Nougat", "Nuss"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-tender-tar-200g?number=SHWD14099",
+    "ean": "4260647070453"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  EXOTIC MIX",
+    "tastes": ["Mango", "Maracuja", "Passionsfrucht"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-exotic-mix-200g?number=SHWD14105",
+    "ean": "4260647070378"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  RED MUSE",
+    "tastes": ["Bonbon", "Cranberry"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-red-muse-200g?number=SHWD14108",
+    "ean": "4260647070408"
+}, {
+    "producer": "Hookah Squad",
+    "name": "Fresh Lamonee",
+    "tastes": ["Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookah-squad-tabak-fresh-lamonee-200g?number=SHWD15294",
+    "ean": "4250692413893"
+}, {
+    "producer": "Alwazir",
+    "name": "No. 46 FIJI ISLAND",
+    "tastes": ["Aloe", "Ananas", "Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 250,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/alwazir-tabak-no.-46-fiji-island-250g?number=SHWD15730",
+    "ean": "4060594005023"
+}, {
+    "producer": "Mero",
+    "name": "2.0 No. 3 BALLER LOS",
+    "tastes": ["Maracuja", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/mero-tabak-no.-3-baller-los-200g?number=SHWD15735",
+    "ean": "4060594004385"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "022 Yakuza",
+    "tastes": ["Holunder"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-022-yakuza-200g?number=SHWD15749",
+    "ean": "4251822800118"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  Pure Enery g",
+    "tastes": ["Energy Drink", "Gewürzmischung"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-pure-energy-200g?number=SHWD15782",
+    "ean": "4260647071597"
+}, {
+    "url": "/darkside-base-tabak-doppelgaenger-200g?number=SHWD15783",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Swiss Boom #79",
+    "tastes": ["Eisbonbon"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-swiss-boom-79-200g?number=SHWD15905",
+    "ean": "4260587792583"
+}, {
+    "url": "/smokeys-tabak-106-wild-cactuz-200g?number=SHWD16302",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Bushido",
+    "name": "ANIS",
+    "tastes": ["Anis (Lakritze)", "Doppelapfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bushido-tabak-anis-200g?number=SHWD16462",
+    "ean": "4250859813269"
+}, {
+    "producer": "Al Fakher",
+    "name": "Grapio 200g",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/al-fakher-tabak-grapio-200g?number=SHWD16525",
+    "ean": "5908224721914"
+}, {
+    "producer": "Darkside",
+    "name": "Base  BN Papa",
+    "tastes": ["Banane"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-bn-papa-200g?number=SHWD16641",
+    "ean": "4260647072105"
+}, {
+    "producer": "Darkside",
+    "name": "Core  BN Papa",
+    "tastes": ["Banane"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-bn-papa-200g?number=SHWD16642",
+    "ean": "4260647071986"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Cosmo FLWR",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-cosmo-flwr-200g?number=SHWD16786",
+    "ean": "4260647071863"
+}, {
+    "producer": "Musthave Undercoal",
+    "name": "India",
+    "tastes": ["Gewürzmischung", "Schwarzer Tee"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 21.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/musthave-undercoal-tabak-india-200g?number=SHWD16800",
+    "ean": "4605648029022"
+}, {
+    "producer": "187 Strassenbande",
+    "name": "Green Lihts g",
+    "tastes": ["Kiwi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/187-strassenbande-tabak-green-lights-200g?number=SHWD16815",
+    "ean": "4251822800521"
+}, {
+    "producer": "Blue Horse",
+    "name": "2.0 MI AMOR",
+    "tastes": ["Banane", "Beerenmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blue-horse-tabak-mi-amor-200g?number=SHWD16834",
+    "ean": "4260587797007"
+}, {
+    "producer": "Blue Horse",
+    "name": "2.0 RIO KISS",
+    "tastes": ["Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blue-horse-tabak-rio-kiss-200g?number=SHWD16837",
+    "ean": "4260587798134"
+}, {
+    "producer": "Brohood",
+    "name": "# 2 Flip",
+    "tastes": ["Cola", "Kirsche", "Mandel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--2-flip-200g?number=SHWD17097",
+    "ean": "4260578261869"
+}, {
+    "producer": "Brohood",
+    "name": "# 5 Gela",
+    "tastes": ["Limette", "Rose"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--5-gela-200g?number=SHWD17100",
+    "ean": "4260578261890"
+}, {
+    "producer": "Brohood",
+    "name": "# 6 Kaios",
+    "tastes": ["Kokosnuss", "Limette", "Sahne"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--6-kaios-200g?number=SHWD17101",
+    "ean": "4260578261906"
+}, {
+    "producer": "Smokah",
+    "name": "Blue Cop",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokah-tabak-blue-cop-200g?number=SHWD17173",
+    "ean": "4260692490022"
+}, {
+    "producer": "Aloha",
+    "name": "ALOHA  Fiki",
+    "tastes": ["Ananas", "Cranberry", "Orange"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aloha-tabak-fiki-200g?number=SHWD17305",
+    "ean": "4251462401034"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Admiral Acbar",
+    "tastes": ["Fruchtmix", "Müsli"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-admiral-acbar-200g?number=SHWD17444",
+    "ean": "4260647072228"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  Tropic Chi",
+    "tastes": ["Himbeere", "Litschi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-tropic-chi-200g?number=SHWD17777",
+    "ean": "4260647073157"
+}, {
+    "producer": "Chillma",
+    "name": "Ice Cactus",
+    "tastes": ["Kaktus", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 250,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/chillma-tabak-ice-cactus-250g?number=SHWD18234",
+    "ean": "4260673310028"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Green Pery #13",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-green-pery-13-200g?number=SHWD18629",
+    "ean": "8681655792698"
+}, {
+    "producer": "Brohood",
+    "name": "# 10 VainTastic",
+    "tastes": ["Kekse", "Vanille"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--10-vain-tastic-200g?number=SHWD18900",
+    "ean": "4260578262064"
+}, {
+    "producer": "Brohood",
+    "name": "# 9 Brate",
+    "tastes": ["Apfel", "Karamell"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--9-brate-200g?number=SHWD18901",
+    "ean": "4260578262057"
+}, {
+    "producer": "Aamoza",
+    "name": "Twitch",
+    "tastes": ["Guarana", "Limette", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aamoza-tabak-twitch-200g?number=SHWD19760",
+    "ean": "2000100047330"
+}, {
+    "producer": "Bodacious",
+    "name": "Babo Cactuz",
+    "tastes": ["Kaktus", "Limette", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bodacious-tabak-babo-cactuz-200g?number=SHWD19945",
+    "ean": "4893273112664"
+}, {
+    "url": "/bodacious-tabak-sheesh-ehrenmann-200g?number=SHWD19948",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Acot",
+    "tastes": ["Apfel", "Aprikose"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-acot-200g?number=SHWD20513",
+    "ean": "4260647072310"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Blue Blast",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-blue-blast-200g?number=SHWD20553",
+    "ean": "4260647072495"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Blue Blast",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-blue-blast-200g?number=SHWD20554",
+    "ean": "4260647073904"
+}, {
+    "producer": "True Cloudz",
+    "name": "One",
+    "tastes": ["Holunder", "Ingwer", "Limonade", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-cloudz-tabak-one-200g?number=SHWD20697",
+    "ean": "4260713940017"
+}, {
+    "producer": "True Cloudz",
+    "name": "Two",
+    "tastes": ["Frische", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-cloudz-tabak-two-200g?number=SHWD20698",
+    "ean": "4260713940024"
+}, {
+    "url": "/true-cloudz-tabak-seven-200g?number=SHWD20703",
+    "msg": "read ECONNRESET"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Blue Eyes",
+    "tastes": ["Blaubeere", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-blue-eyes-20g?number=SHWD20768",
+    "ean": "8681655799000"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Typ Java",
+    "tastes": ["Energy Drink", "Guave", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-typ-java-20g?number=SHWD20771",
+    "ean": "8681655799130"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Lokko",
+    "tastes": ["Holunder", "Ingwer", "Menthol (TPD2)", "Orange", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-lokko-20g?number=SHWD12185",
+    "ean": "8681655799086"
+}, {
+    "producer": "Darkside",
+    "name": "Base  RED T",
+    "tastes": ["Hibiskus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-red-t-200g?number=SHWD14069",
+    "ean": "4260647073751"
+}, {
+    "producer": "Hookah Squad",
+    "name": "Bubble on ICE",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookah-squad-tabak-bubble-on-ice-200g?number=SHWD15290",
+    "ean": "4250692413855"
+}, {
+    "producer": "Aamoza",
+    "name": "Ap X",
+    "tastes": ["Doppelapfel"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aamoza-tabak-ap-x-200g?number=SHWD15780",
+    "ean": "672225581468"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Redbrry",
+    "tastes": ["Johannisbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-redbrry-200g?number=SHWD15784",
+    "ean": "4260647071474"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Dark Spirit",
+    "tastes": ["Limette", "Margarita", "Tequila"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-dark-spirit-200g?number=SHWD15785",
+    "ean": "4260647071535"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Redbrry",
+    "tastes": ["Johannisbeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-redbrry-200g?number=SHWD15787",
+    "ean": "4260647071504"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Dark Spirit",
+    "tastes": ["Limette", "Margarita", "Tequila"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-dark-spirit-200g?number=SHWD15788",
+    "ean": "4260647071566"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Blue Orion #12",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-blue-orion-12-200g?number=SHWD15878",
+    "ean": "4260587791807"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Ice #80",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-ice-80-200g?number=SHWD15891",
+    "ean": "4260587792576"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Lyc Blue #41",
+    "tastes": ["Blaubeere", "Litschi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-lyc-blue-41-200g?number=SHWD15899",
+    "ean": "4260587792095"
+}, {
+    "producer": "Magic Smoke",
+    "name": "Maic Smoke  MS11 O NANA g",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/magic-smoke-tabak-ms11-o-nana-200g?number=SHWD16277",
+    "ean": "2000100010976"
+}, {
+    "producer": "Smokeys",
+    "name": "010 P3AC#",
+    "tastes": ["Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokeys-tabak-010-p3ac-200g?number=SHWD16291",
+    "ean": "4260461460102"
+}, {
+    "producer": "Smokeys",
+    "name": "024 LYCH##",
+    "tastes": ["Litschi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokeys-tabak-024-lych-200g?number=SHWD16296",
+    "ean": "4260461450240"
+}, {
+    "producer": "Lady Boss",
+    "name": "First Class",
+    "tastes": ["Drachenfrucht", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/lady-boss-tabak-first-class-200g?number=SHWD16604",
+    "ean": "2000100014431"
+}, {
+    "producer": "Lady Boss",
+    "name": "Rolli Rolli",
+    "tastes": ["Zitrus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/lady-boss-tabak-rolli-rolli-200g?number=SHWD16606",
+    "ean": "2000100014417"
+}, {
+    "producer": "Lady Boss",
+    "name": "Call Boy 200g",
+    "tastes": ["Waldbeere"],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/lady-boss-tabak-call-boy-200g?number=SHWD16608",
+    "ean": "2000100014394"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Cosmo FLWR",
+    "tastes": ["Blaubeere"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-cosmo-flwr-200g?number=SHWD16785",
+    "ean": "4260647071771"
+}, {
+    "producer": "Blue Horse",
+    "name": "2.0 Barcelona Sunrise",
+    "tastes": ["Blutorange", "Mandarine", "Mango", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blue-horse-tabak-barcelona-sunrise-200g?number=SHWD16832",
+    "ean": "4260587798639"
+}, {
+    "producer": "Blue Horse",
+    "name": "2.0 Paris Romantique",
+    "tastes": ["Ananas", "Erdbeere", "Kaktus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/blue-horse-tabak-paris-romantique-200g?number=SHWD16836",
+    "ean": "4260587798615"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  C.Monsta g",
+    "tastes": ["Fruchtmix", "Limonade"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-c.monsta-200g?number=SHWD17023",
+    "ean": "4250859813047"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  C.rry g",
+    "tastes": ["Fruchtmix", "Kirsche", "Limonade"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-c.rry-200g?number=SHWD17024",
+    "ean": "4250859812989"
+}, {
+    "producer": "Capital Bra Smoke",
+    "name": "Capital Bra  Komm komm",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/capital-bra-tabak-komm-komm-200g?number=SHWD17087",
+    "ean": "602343054155"
+}, {
+    "producer": "Brohood",
+    "name": "# 1 Herbie",
+    "tastes": ["Jasmin", "Schwarzer Tee", "Tee", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--1-herbie-200g?number=SHWD17096",
+    "ean": "4260578261852"
+}, {
+    "producer": "Smokah",
+    "name": "El Mexicano",
+    "tastes": ["Kaktus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokah-tabak-el-mexicano-200g?number=SHWD17169",
+    "ean": "4260692490053"
+}, {
+    "producer": "Smokah",
+    "name": "Gummy Melo",
+    "tastes": ["Honigmelone", "Kaugummi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokah-tabak-gummy-melo-200g?number=SHWD17170",
+    "ean": "4260692490077"
+}, {
+    "producer": "Aloha",
+    "name": "ALOHA  Per Villae g",
+    "tastes": ["Birne", "Passionsfrucht", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aloha-tabak-per-village-200g?number=SHWD17304",
+    "ean": "4251462401041"
+}, {
+    "producer": "Aloha",
+    "name": "ALOHA  Ocean Bay",
+    "tastes": ["Blaubeere", "Brombeere", "Jackfrucht"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aloha-tabak-ocean-bay-200g?number=SHWD17306",
+    "ean": "4251462401089"
+}, {
+    "producer": "Shades Tobacco",
+    "name": "Shades  Lem On Ciao",
+    "tastes": ["Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/shades-tabak-lem-on-ciao-200g?number=SHWD17422",
+    "ean": "4260673310141"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Virin M. g",
+    "tastes": ["Melone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-virgin-m.-200g?number=SHWD17442",
+    "ean": "4260647072259"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Virin M. g",
+    "tastes": ["Melone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-virgin-m.-200g?number=SHWD17443",
+    "ean": "4260647072280"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Admiral Acbar",
+    "tastes": ["Fruchtmix", "Müsli"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-admiral-acbar-200g?number=SHWD17445",
+    "ean": "4260647072198"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  Summer Fizz",
+    "tastes": ["Limonade", "Orange"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-summer-fizz-200g?number=SHWD17776",
+    "ean": "4260647073126"
+}, {
+    "producer": "Mero",
+    "name": "2.0 No. 7 BOGOTA",
+    "tastes": ["Beerenmix", "Blaubeere", "Kräutermix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/mero-tabak-no.-7-bogota-200g?number=SHWD18119",
+    "ean": "4060594006037"
+}, {
+    "producer": "Mero",
+    "name": "2.0 No. 8 JAY JAY",
+    "tastes": ["Limette", "Menthol (TPD2)", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/mero-tabak-no.-8-jay-jay-200g?number=SHWD18120",
+    "ean": "4060594006051"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Tear",
+    "tastes": ["Birne"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-tear-200g-?number=SHWD19401",
+    "ean": "4260647072884"
+}, {
+    "producer": "Brohood",
+    "name": "# 12 Justine",
+    "tastes": ["Erdbeere", "Rhabarber"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--12-justine-200g?number=SHWD19521",
+    "ean": "4260578261654"
+}, {
+    "producer": "Hasso",
+    "name": "Flyin Sakiz g",
+    "tastes": ["Kaugummi", "Minze (TPD2)", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hasso-tabak-flying-sakiz-200g?number=SHWD19777",
+    "ean": "4251822801085"
+}, {
+    "producer": "Bodacious",
+    "name": "Mystic Babo",
+    "tastes": ["Cappuccino", "Pistazie"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bodacious-tabak-mystic-babo-200g?number=SHWD19947",
+    "ean": "4893273112688"
+}, {
+    "producer": "FrootY",
+    "name": "Sloopy",
+    "tastes": ["Blaubeere", "Erdbeere", "Honigmelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/frooty-tabak-sloopy-200g?number=SHWD19980",
+    "ean": "4270001796301"
+}, {
+    "producer": "FrootY",
+    "name": "Fruit Drop",
+    "tastes": ["Ananas", "Kiwi", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/frooty-tabak-fruit-drop-200g?number=SHWD19981",
+    "ean": "4270001796318"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Nuzz",
+    "tastes": ["Nuss"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-nuzz-200g?number=SHWD20045",
+    "ean": "4260647073720"
+}, {
+    "producer": "Aeon",
+    "name": "Black Series I Rosea",
+    "tastes": ["Himbeere", "Rose"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 22.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aeon-tabak-black-series-i-rosea-200g?number=SHWD20596",
+    "ean": "048544890244"
+}, {
+    "producer": "Aeon",
+    "name": "Black Series IV Flavo",
+    "tastes": ["Rose", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 22.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aeon-tabak-black-series-iv-flavo-200g?number=SHWD20599",
+    "ean": "048544890275"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Acot",
+    "tastes": ["Apfel", "Aprikose"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-acot-200g?number=SHWD20552",
+    "ean": "4260647073782"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  THAI SUNRISE",
+    "tastes": ["Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-thai-sunrise-200g?number=SHWD20555",
+    "ean": "4260647076554"
+}, {
+    "producer": "Hip Island",
+    "name": "Dreamcatcher",
+    "tastes": ["Frische", "Rote Frucht", "Sprite", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hip-island-tabak-dreamcatcher-200g?number=SHWD20622",
+    "ean": "4260596827863"
+}, {
+    "producer": "Darkside",
+    "name": "Core  B Monster",
+    "tastes": ["Bergamotte"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-b-monster-200g?number=SHWD20673",
+    "ean": "4260647073843"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  Emerald Touch",
+    "tastes": ["Guave"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-emerald-touch-200g?number=SHWD20679",
+    "ean": "2000100056684"
+}, {
+    "producer": "True Cloudz",
+    "name": "Eiht g",
+    "tastes": ["Frische", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-cloudz-tabak-eight-200g?number=SHWD20704",
+    "ean": "4260713940086"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red Balls",
+    "tastes": ["Kirsche", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-red-balls-20g?number=SHWD20769",
+    "ean": "8681655799024"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Fanex",
+    "tastes": ["Beerenmix", "Maracuja", "Menthol (TPD2)", "Orange", "Pfirsich", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-fanex-20g?number=SHWD20772",
+    "ean": "8681655799178"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red Fall",
+    "tastes": ["Menthol (TPD2)", "Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-red-fall-20g?number=SHWD20777",
+    "ean": "8681655799147"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Wild Mo",
+    "tastes": ["Mango", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-wild-mo-20g?number=SHWD20778",
+    "ean": "8681655799161"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Black Box",
+    "tastes": ["Acai", "Guarana", "Menthol (TPD2)", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-black-box-20g?number=SHWD12178",
+    "ean": "8681655795453"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Kmsutra",
+    "tastes": ["Beerenmix", "Kirsche"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-kmsutra-20g?number=SHWD13194",
+    "ean": "8681655795477"
+}, {
+    "producer": "Kismet",
+    "name": "#5 BLCK UHURU",
+    "tastes": ["Grapefruit", "Muskatnuss"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 19.75,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/kismet-tabak-5-blck-uhuru-200g?number=SHWD14373",
+    "ean": "4260482894054"
+}, {
+    "producer": "Xracher",
+    "name": "Twan Bang g",
+    "tastes": ["Beerenmix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/xracher-tabak-twang-bang-200g?number=SHWD14536",
+    "ean": "4260482899264"
+}, {
+    "producer": "Hookah Squad",
+    "name": "GUMonICE",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookah-squad-tabak-gumonice-200g?number=SHWD15289",
+    "ean": "4250692413848"
+}, {
+    "producer": "Hookah Squad",
+    "name": "Sultan Grp 200g",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 10,
+    "unit": "ml, ",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/hookah-squad-tabak-sultan-grp-200g?number=SHWD15297",
+    "ean": "4250692413923"
+}, {
+    "producer": "Mero",
+    "name": "2.0 No. 6 HOBBY HOBBY",
+    "tastes": ["Blutorange", "Erdbeere", "Papaya"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/mero-tabak-no.-6-hobby-hobby-200g?number=SHWD15738",
+    "ean": "4060594004446"
+}, {
+    "producer": "Aamoza",
+    "name": "What A Rocks",
+    "tastes": ["Wassermelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aamoza-tabak-what-a-rocks-200g?number=SHWD15772",
+    "ean": "672225581543"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Doppelänger g",
+    "tastes": ["Anis (Lakritze)", "Doppelapfel", "Kräutermix"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-doppelgaenger-200g?number=SHWD15786",
+    "ean": "4260647071443"
+}, {
+    "producer": "Adalya",
+    "name": "2.0 Cool #78",
+    "tastes": [""],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/adalya-tabak-cool-78-200g?number=SHWD15881",
+    "ean": "4260587792569"
+}, {
+    "producer": "Smokeys",
+    "name": "008 GU#V#",
+    "tastes": ["Guave"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokeys-tabak-008-guv-200g?number=SHWD16290",
+    "ean": "4260461460089"
+}, {
+    "producer": "Lady Boss",
+    "name": "Silicon World",
+    "tastes": ["Fruchtmix", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 16.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/lady-boss-tabak-silicon-world-200g?number=SHWD16607",
+    "ean": "2000100014400"
+}, {
+    "producer": "Darkside",
+    "name": "Base  MG Assi",
+    "tastes": ["Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-mg-assi-200g?number=SHWD16639",
+    "ean": "4260647071993"
+}, {
+    "producer": "Darkside",
+    "name": "Core  MG Assi",
+    "tastes": ["Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-mg-assi-200g?number=SHWD16640",
+    "ean": "4260647072006"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Skyline",
+    "tastes": ["Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-skyline-200g?number=SHWD16782",
+    "ean": "4260647071801"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Skyline",
+    "tastes": ["Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-skyline-200g?number=SHWD16886",
+    "ean": "4260647071719"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  C.Afrika Trip g",
+    "tastes": ["Fruchtmix", "Limonade"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-c.afrika-trip-200g?number=SHWD17019",
+    "ean": "4250859813078"
+}, {
+    "producer": "Fadi Tobaggo",
+    "name": "Fadi Tobago  C.Magic g",
+    "tastes": ["Fruchtmix", "Limonade"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/fadi-tobaggo-tabak-c.magic-200g?number=SHWD17022",
+    "ean": "4250859813061"
+}, {
+    "producer": "Brohood",
+    "name": "# 4 Paradise",
+    "tastes": ["Ananas", "Grapefruit"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/brohood-tabak--4-paradise-200g?number=SHWD17099",
+    "ean": "4260578261883"
+}, {
+    "producer": "Smokah",
+    "name": "Mana Djanga g",
+    "tastes": ["Mango"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokah-tabak-manga-djanga-200g?number=SHWD17176",
+    "ean": "4260692490107"
+}, {
+    "producer": "Darkside",
+    "name": "Core  KALEE GRAP",
+    "tastes": ["Grapefruit", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-kalee-grap-200g?number=SHWD17694",
+    "ean": "4260647070163"
+}, {
+    "producer": "Darkside",
+    "name": "Core  SPACE ICHI",
+    "tastes": ["Litschi"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-space-ichi-200g?number=SHWD17696",
+    "ean": "4260647072730"
+}, {
+    "producer": "Darkside",
+    "name": "Starline  SUNNY BURST",
+    "tastes": ["Honigmelone"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 18.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-starline-tabak-sunny-burst-200g-?number=SHWD14112",
+    "ean": "4260647070446"
+}, {
+    "producer": "Darkside",
+    "name": "Base  Desert Eale g",
+    "tastes": ["Kaktus"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-base-tabak-desert-eagle-200g?number=SHWD19772",
+    "ean": "4260647073003"
+}, {
+    "producer": "Smokeys",
+    "name": "Lime",
+    "tastes": ["Limette", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/smokeys-tabak-lime-200g?number=SHWD19911",
+    "ean": "4260461460393"
+}, {
+    "producer": "Bodacious",
+    "name": "Fruity Explosure",
+    "tastes": ["Grapefruit", "Mango", "Maracuja"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bodacious-tabak-fruity-explosure-200g?number=SHWD19946",
+    "ean": "4893273112657"
+}, {
+    "producer": "Bodacious",
+    "name": "Summer Feelins g",
+    "tastes": ["Blaubeere", "Himbeere", "Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/bodacious-tabak-summer-feelings-200g?number=SHWD19949",
+    "ean": "4893273112640"
+}, {
+    "producer": "FrootY",
+    "name": "Classic T.M.",
+    "tastes": ["Menthol (TPD2)", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/frooty-tabak-classic-t.m.-200g?number=SHWD19979",
+    "ean": "4270001796325"
+}, {
+    "producer": "Darkside",
+    "name": "Core  Nuzz",
+    "tastes": ["Nuss"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 20.99,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/darkside-core-tabak-nuzz-200g?number=SHWD20044",
+    "ean": "4260647074055"
+}, {
+    "producer": "True Cloudz",
+    "name": "Nine",
+    "tastes": ["Limette"],
+    "type": "Shisha Tabak",
+    "amount": 200,
+    "unit": "g",
+    "price": 17.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/true-cloudz-tabak-nine-200g?number=SHWD20705",
+    "ean": "4260713940093"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Crazy Chief",
+    "tastes": ["Menthol (TPD2)", "Pfirsich"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-crazy-chief-20g?number=SHWD20770",
+    "ean": "8681655799031"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Golden Leo",
+    "tastes": ["Menthol (TPD2)", "Zitrone"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-golden-leo-20g?number=SHWD20773",
+    "ean": "8681655799062"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red Malina",
+    "tastes": ["Himbeere"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-red-malina-20g?number=SHWD20774",
+    "ean": "8681655799079"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Green Pery",
+    "tastes": ["Birne", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-green-pery-20g?number=SHWD20775",
+    "ean": "8681655799093"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Golden Anna",
+    "tastes": ["Ananas", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-golden-anna-20g?number=SHWD20776",
+    "ean": "8681655799123"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red & Blue",
+    "tastes": ["Beerenmix", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-red--blue-20g?number=SHWD20779",
+    "ean": "8681655799154"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Colours",
+    "tastes": ["Erdbeere", "Grapefruit", "Grenadille", "Kirsche", "Maracuja", "Menthol (TPD2)", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-colours-20g?number=SHWD20780",
+    "ean": "8681655799048"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Black & White",
+    "tastes": ["Menthol (TPD2)", "Traube"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-black--white-20g?number=SHWD20781",
+    "ean": "8681655799185"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Red & Green",
+    "tastes": ["Grüner Apfel", "Menthol (TPD2)", "Roter Apfel"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-red--green-20g?number=SHWD20782",
+    "ean": "8681655799208"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Violet Dream",
+    "tastes": ["Menthol (TPD2)", "Pflaume"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-violet-dream-20g?number=SHWD20783",
+    "ean": "8681655799109"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Purple Teeny",
+    "tastes": ["Mangosteen", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-purple-teeny-20g?number=SHWD20784",
+    "ean": "8681655799116"
+}, {
+    "producer": "Aqua Mentha",
+    "name": "Green Leo",
+    "tastes": ["Limette", "Menthol (TPD2)"],
+    "type": "Shisha Tabak",
+    "amount": 20,
+    "unit": "g",
+    "price": 2.9,
+    "currency": "€",
+    "source": "https://www.shisha-world.com/aqua-mentha-tabak-green-leo-20g?number=SHWD20785",
+    "ean": "8681655799208"
+}]
