@@ -9,7 +9,8 @@ class Tobacco {
         unit,
         price,
         currency,
-        url
+        url,
+        ean
     ) {
         this.producer = producer;
         this.name = name;
@@ -20,7 +21,7 @@ class Tobacco {
         this.price = price;
         this.currency = currency || "€";
         this.source = url;
-        this.ean = undefined;
+        this.ean = ean;
     }
 
     toString() {
@@ -29,4 +30,4 @@ class Tobacco {
 
 }
 
-module.exports.default = Tobacco;
+module.exports = Tobacco;
