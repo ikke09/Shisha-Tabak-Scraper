@@ -1,31 +1,22 @@
 class Tobacco {
 
-    constructor(
-        producer,
-        name,
-        tastes,
-        type,
-        amount, 
-        unit,
-        price,
-        currency,
-        url,
-        ean
-    ) {
+    constructor(producer, source) {
         this.producer = producer;
-        this.name = name;
-        this.tastes = tastes;
-        this.type = type;
-        this.amount = amount;
-        this.unit = unit || "g";
-        this.price = price;
-        this.currency = currency || "€";
-        this.source = url;
-        this.ean = ean;
+        this.name = undefined;
+        this.tastes = [];
+        this.type = 'Shisha-Tabak';
+        this.amount = 200;
+        this.unit = "g";
+        this.price = 17.9;
+        this.currency = "€";
+        this.source = source;
+        this.ean = undefined;
+        this.description = undefined;
+        this.error = undefined;
     }
 
     toString() {
-        return `${this.producer} - ${this.name}`;
+        return `${this.producer.name} - ${this.name}`;
     }
 
 }

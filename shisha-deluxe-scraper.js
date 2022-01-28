@@ -4,131 +4,146 @@ const Tobacco = require('./tobacco');
 const PageInfo = require('./page-info');
 
 const tobaccoOverviewPageRequestOptions = {
-    url: '/navi.php',
-    method: 'get', // default
+    url: '/Shisha-Tabak',
+    method: 'get',
     baseURL: 'https://www.shisha-deluxe.de',
-    params: {
-        k: 2422,
-        Sortierung: 1,
-        af: 90
-    },
-    responseType: 'document',
-    responseEncoding: 'utf8',
     headers: {
         'X-Requested-With': 'XMLHttpRequest'
     },
-    withCredentials: true,
+    responseType: 'document',
+    responseEncoding: 'utf8'
+
 };
 
-const loadTobaccoCount = async () => {
+const loadPageInfos = async () => {
     try {
         const response = await axios(tobaccoOverviewPageRequestOptions)
-        let responseCookie = response.headers['set-cookie'][0];
-        responseCookie = responseCookie.substring(0, responseCookie.indexOf(';'));
-        // save headers from response in order to preserve sorting and products per page
-        tobaccoOverviewPageRequestOptions.headers = {
-            ...tobaccoOverviewPageRequestOptions.headers,
-            Cookie: responseCookie
-        };
+
         const $ = cheerio.load(response.data);
         const numRegEx = new RegExp('\\d+', 'g');
-        const pageInfoStr = $('.page-current').text().trim();
-        const {
-            1: pages
-        } = [...pageInfoStr.matchAll(numRegEx)];
         const maxCountInfoStr = $('.page-total').text().trim();
         const {
-            1: perPage,
             2: maxCount
         } = [...maxCountInfoStr.matchAll(numRegEx)];
+
+        const producerItems = $('div.filter-type-manufacturer').find('li')
+        const producers = producerItems
+            .toArray()
+            .map(node => {
+                const name = $(node).find('span.value').text().trim();
+                const href = $(node).find('a').attr('href');
+                const path = href.substring(href.lastIndexOf('/'));
+                return { 
+                    name,
+                    path
+                }
+            });
+
         return new PageInfo(
             Number(maxCount[0]),
-            Number(perPage[0]),
-            Number(pages[0])
+            producers
         );
     } catch (error) {
         console.error(error);
     }
 }
 
-const loadTobaccoLinksOnPage = (pageHtml) => {
-    const $ = cheerio.load(pageHtml);
-    const products = $('a.image-wrapper').toArray();
-    return products.map(element => $(element).attr('href'));
-}
-
-const loadAllTobaccoLinks = async (maxPages) => {
-    const productLinks = [];
-    for (let page = 1; page <= maxPages; page++) {
-        const pageRequestOptions = {
+const loadTobaccosFromProducer = async (producer) => {
+    try {
+        const producerPageRequestOptions = {
             ...tobaccoOverviewPageRequestOptions,
-            url: `/Shisha-Tabak_s${page}`,
+            url: `${producer.path}`,
         };
-        const response = await axios(pageRequestOptions);
-        const productsOnPage = loadTobaccoLinksOnPage(response.data);
-        productLinks.push(...productsOnPage);
+        const response = await axios(producerPageRequestOptions);
+        const $ = cheerio.load(response.data);
+        const links = $('a.image-wrapper').toArray();
+        return links.map(link => {
+            const source = $(link).attr('href');
+            return new Tobacco(producer, source);
+        });
+    } catch (error) {
+        console.error(`Failed on ${producer}`);
+        console.error(error);
     }
-    return productLinks;
 }
 
-const loadTobacco = async (productLink) => {
+const loadTobaccoDetails = async (tobacco) => {
     try {
         const detailRequestOptions = {
             ...tobaccoOverviewPageRequestOptions,
-            url: `/${productLink}`,
-            params: {},
+            url: `/${tobacco.source}`,
         };
         const response = await axios(detailRequestOptions);
         const $ = cheerio.load(response.data);
+        const productAttributesDiv = $('div.product-attributes');
         const {
             0: amount,
             1: unit
-        } = $('td:contains("Inhalt")').next().text().split(' ');
-        const tastes = $('td:contains("Geschmack")')
+        } = productAttributesDiv.find('td:contains("Inhalt")').next().text().split(' ');
+
+        tobacco.amount = amount;
+        tobacco.unit = unit;
+
+        tobacco.tastes = productAttributesDiv.find('td:contains("Geschmack")')
             .next()
             .find('a')
             .toArray()
             .map(node => $(node).attr('href').trim());
-        const name = $('li:contains("Sorte")').text().trim().replace('Sorte:', '');
-        const price = $('meta[itemprop=price]').attr('content');
-        const currency = $('meta[itemprop=priceCurrency]').attr('content');
 
-        let producer = $('div.manufacturer-row>a').attr('href');
-        if (!producer) {
-            let title = $('h1.product-title').text().trim();
-            [amount, unit, name, '-', ',', ';']
-            .forEach(s => title = title.replace(s, ''));
-            producer = title.trim();
-        } else {
-            producer = producer.trim().replace('-', ' ');
+
+        const descriptionElement = $('div.desc');
+        tobacco.description = descriptionElement.find('p').text();
+        const name = descriptionElement.find('li:contains("Sorte")').text().trim()
+        tobacco.name = name.substring(name.indexOf(':') + 1).trim();
+
+        if (tobacco.tastes.length == 0) {
+            const tastes = descriptionElement.find('li:contains("Geschmack")').text().trim()
+            tobacco.tastes = tastes.substring(tastes.indexOf(':') + 1).trim().split(' ');
         }
-        const type = $('a[itemprop=category]').text().trim();
-        return new Tobacco(
-            producer,
-            name,
-            tastes,
-            type,
-            Number(amount),
-            unit,
-            Number(price),
-            currency,
-            `${detailRequestOptions.baseURL}/${productLink}`
-        );
+
+        tobacco.price = Number($('meta[itemprop=price]').attr('content'));
+        tobacco.source = `${detailRequestOptions.baseURL}${detailRequestOptions.url}`;
+        return tobacco;
     } catch (error) {
-        return {
-            url: productLink,
+        tobacco.error = {
             msg: error.message || 'Failed to load Details',
         };
     }
 }
 
-const loadAllTobaccos = async (links) => {
-    return await Promise.all(
-        links.map(async (link) => await loadTobacco(link)));
+const scrapeTobaccos = async (debug) => {
+    if (debug)
+        console.time('page-infos');
+    const {
+        tobaccoCount,
+        producers
+    } = await loadPageInfos();
+    if (debug) {
+        console.log(`Found ${tobaccoCount} tobaccos listed on the website!`);
+        console.timeEnd('page-infos');
+        console.time('tobacco-base-infos');
+    }
+    const tobaccos = [];
+    await Promise.all(producers.map(async (producer) => {
+        const tobaccosFromProducer = await loadTobaccosFromProducer(producer);
+        tobaccos.push(...tobaccosFromProducer);
+    }));
+
+    if (debug) {
+        console.timeEnd('tobacco-base-infos');
+        console.time('tobacco-detail-infos');
+    }
+
+    await Promise.all(tobaccos.map(async (tobacco) => await loadTobaccoDetails(tobacco)));
+
+    if (debug) {
+        console.timeEnd('tobacco-detail-infos');
+        console.log(`Scraped ${tobaccos.length} from ${tobaccoCount} Tobaccos on the Website!`);
+    }
+
+    return tobaccos;
 }
 
 module.exports = {
-    loadTobaccoCount,
-    loadAllTobaccoLinks,
-    loadAllTobaccos
+    scrapeTobaccos
 };

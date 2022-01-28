@@ -1,8 +1,7 @@
 class PageInfo {
-    constructor(productCount, amountPerPage, pageCount) {
-        this.productCount = productCount;
-        this.amountPerPage = amountPerPage; 
-        this.pageCount = pageCount;
+    constructor(tobaccoCount, producers) {
+        this.tobaccoCount = tobaccoCount;
+        this.producers = producers;
     }
 }
 
