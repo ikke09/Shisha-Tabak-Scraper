@@ -81,10 +81,10 @@ const loadTobaccoDetails = async (tobacco) => {
             1: unit
         } = productAttributesDiv.find('td:contains("Inhalt")').next().text().split(' ');
 
-        tobacco.amount = amount;
+        tobacco.amount = Number(amount);
         tobacco.unit = unit;
 
-        tobacco.tastes = productAttributesDiv.find('td:contains("Geschmack")')
+        tobacco.tastes = productAttributesDiv.find('td:contains("Geschmack:")')
             .next()
             .find('a')
             .toArray()
@@ -93,11 +93,11 @@ const loadTobaccoDetails = async (tobacco) => {
 
         const descriptionElement = $('div.desc');
         tobacco.description = descriptionElement.find('p').text();
-        const name = descriptionElement.find('li:contains("Sorte")').text().trim()
+        const name = descriptionElement.find('li:contains("Sorte:")').text().trim()
         tobacco.name = name.substring(name.indexOf(':') + 1).trim();
 
         if (tobacco.tastes.length == 0) {
-            const tastes = descriptionElement.find('li:contains("Geschmack")').text().trim()
+            const tastes = descriptionElement.find('li:contains("Geschmack:")').text().trim()
             tobacco.tastes = tastes.substring(tastes.indexOf(':') + 1).trim().split(' ');
         }
 
