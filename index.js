@@ -1,6 +1,6 @@
 const fs = require('fs');
-const { scrapeTobaccos } = require('./shisha-deluxe-scraper');
-//const { loadTobaccoCount, loadAllTobaccoLinks, loadAllTobaccos } = require('./shisha-world-scraper');
+//const { scrapeTobaccos } = require('./shisha-deluxe-scraper');
+const { scrapeTobaccos } = require('./shisha-world-scraper');
 
 const writeObjectToJsonFile = (object, fileName) => {
     fs.writeFile(`./${fileName}.json`, JSON.stringify(object), 'utf8', (err) => {
@@ -12,7 +12,7 @@ const writeObjectToJsonFile = (object, fileName) => {
 
 const start = async() => {
     const tobaccos = await scrapeTobaccos(true);
-    writeObjectToJsonFile(tobaccos, 'shisha-deluxe-tabak');
+    writeObjectToJsonFile(tobaccos, 'shisha-world-tabak');
 }
 
 start();
