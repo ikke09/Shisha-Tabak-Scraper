@@ -139,6 +139,7 @@ const scrapeTobaccos = async (debug) => {
     if (debug) {
         console.timeEnd('tobacco-detail-infos');
         console.log(`Scraped ${tobaccos.length} from ${tobaccoCount} Tobaccos on the Website!`);
+        console.log(`${tobaccos.filter(tobacco => !tobacco.error).length} without error!`);
     }
 
     return tobaccos;
